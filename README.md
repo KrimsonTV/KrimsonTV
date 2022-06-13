@@ -1,3 +1,1 @@
-Hello im Krimson 
-
-console.log("İm full stack developer") :)
+discord falsch#1337
